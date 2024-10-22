@@ -1,0 +1,31 @@
+<div class="container-fluid container-fluid-custom pb-5 mb-5">
+    <div class="row mb-4">
+        <div class="col">
+            <nav aria-label="breadcrump">
+                <ol class="breadcrump">
+                    <li class="breadcrump-item">
+                        <a href="/dashboard">Dashboard</a>
+                    </li>
+                    <li class="breadcrump-item active">
+                        Add Note
+                    </li>
+                </ol>
+            </nav>
+            <div class="col d-flex justify-containt-between align-items-center">
+                <h1 class="h3"> Add Note</h1>
+            </div>
+        </div>
+    </div>
+    <form action="/dashboard/add" method="post">
+        <div>
+            <input type="text" id="title" name="title" placeholder="Title">
+        </div>
+        <div>
+            <textarea type="text" id="body" name="body" placeholder="body"></textarea>
+            
+        </div>
+        <div>
+            <button type="submit">+ Add Note</button>
+        </div>
+    </form>
+</div>
