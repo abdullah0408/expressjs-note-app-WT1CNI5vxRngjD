@@ -33,3 +33,1490 @@
 {"level":"info","message":"Note updated: 6717ca60f7bf0f9a4c5e6392 by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T17:21:50.660Z"}
 {"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T17:21:50.714Z"}
 {"level":"info","message":"Server is running on port 3000","timestamp":"2024-10-22T17:23:35.198Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-10-22T18:05:57.936Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:06:30.052Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:06:30.139Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:06:30.154Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:06:30.167Z"}
+{"level":"info","message":"GET request to /images/human-1.svg","timestamp":"2024-10-22T18:06:30.469Z"}
+{"level":"info","message":"GET request to /images/noise-bg.png","timestamp":"2024-10-22T18:06:30.471Z"}
+{"level":"info","message":"GET request to /images/human-2.svg","timestamp":"2024-10-22T18:06:30.473Z"}
+{"level":"info","message":"GET request to /images/stars.svg","timestamp":"2024-10-22T18:06:30.475Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:09:39.924Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:09:39.996Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:09:40.006Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:09:40.033Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:09:40.572Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:09:40.632Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:09:40.635Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:09:40.680Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:09:41.273Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:09:41.330Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:09:41.332Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:09:41.377Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:09:41.523Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:09:41.578Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:09:41.581Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:09:41.616Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:09:41.781Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:09:41.837Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:09:41.840Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:09:41.877Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:09:42.535Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:09:42.599Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:09:42.602Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:09:42.655Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:09:42.802Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:09:42.856Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:09:42.858Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:09:42.894Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:12:04.669Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:12:04.737Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:12:04.744Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:12:04.833Z"}
+{"level":"info","message":"GET request to /images/stars.svg","timestamp":"2024-10-22T18:12:04.902Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:12:20.713Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:12:20.780Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:12:20.783Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:12:20.830Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:12:21.454Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:12:21.512Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:12:21.514Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:12:21.556Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:12:21.711Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:12:21.764Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:12:21.765Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:12:21.801Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:15:03.855Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:15:03.923Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:15:03.930Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:15:04.011Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:15:04.553Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:15:04.612Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:15:04.614Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:15:04.669Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:15:07.404Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:15:07.462Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:15:07.464Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:15:07.512Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-10-22T18:15:22.726Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:15:29.602Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:15:29.667Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:15:29.676Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:15:29.731Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:15:30.071Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:15:30.132Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:15:30.136Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:15:30.407Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:16:00.535Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:16:00.593Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:16:00.597Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:16:00.611Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:16:01.348Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:16:01.634Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:16:01.635Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:16:01.670Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:16:02.545Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:16:02.605Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:16:02.607Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:16:02.653Z"}
+{"level":"info","message":"GET request to /auth/google","timestamp":"2024-10-22T18:16:04.298Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:16:16.960Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:16:17.266Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:16:17.269Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:16:17.335Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:16:17.545Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:16:17.839Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:16:17.841Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:16:17.888Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:16:25.406Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:19:58.453Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:19:58.768Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:19:58.783Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:19:58.829Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:19:59.029Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:19:59.446Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:19:59.462Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:19:59.514Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:19:59.979Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:20:00.033Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:20:00.034Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:20:00.322Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:20:00.613Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:20:00.679Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:20:00.682Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:20:00.707Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:20:00.934Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:20:00.987Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:20:00.988Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:20:01.256Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:20:01.259Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:20:01.515Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:20:43.327Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:20:43.399Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:20:43.406Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:20:43.452Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:21:19.449Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:21:19.631Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:21:19.640Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:21:19.699Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:21:47.481Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:21:47.560Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:21:47.568Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:21:47.612Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:21:48.575Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:21:48.653Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:21:48.654Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:21:48.691Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:21:48.909Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:21:48.963Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:21:48.964Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:21:49.006Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:21:49.248Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:21:49.302Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:21:49.305Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:21:49.345Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:22:26.771Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:22:26.832Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:22:26.838Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:22:26.864Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:22:27.887Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:22:27.939Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:22:27.941Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:22:27.985Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:22:28.445Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:22:28.745Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:22:28.747Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:22:28.790Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:22:28.850Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:22:28.904Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:22:28.905Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:22:28.946Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:22:40.566Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:22:40.623Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:22:40.624Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:22:40.672Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:22:41.113Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:22:41.190Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:22:41.192Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:22:41.231Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:23:00.349Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:23:00.405Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:23:00.409Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:23:00.436Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:23:01.088Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:23:01.144Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:23:01.146Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:23:01.189Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:23:01.429Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:23:01.489Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:23:01.491Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:23:01.530Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:27:51.017Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:27:51.158Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:27:51.164Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:27:51.194Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:28:52.560Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:28:52.625Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:28:52.632Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:28:52.677Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:29:40.958Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:29:41.030Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:29:41.038Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:29:41.067Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:29:42.131Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:29:42.188Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:29:42.192Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:29:42.272Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:29:42.715Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:29:42.770Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:29:42.771Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:29:42.809Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:29:54.516Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:30:51.733Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:30:51.797Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:30:51.806Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:30:51.848Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:31:26.326Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:31:26.384Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:31:26.387Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:31:26.405Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:32:49.331Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:32:49.398Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:32:49.401Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:32:49.467Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:32:49.955Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:32:50.010Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:32:50.011Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:32:50.055Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:33:01.187Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:33:01.280Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:33:01.289Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:33:01.342Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:33:01.552Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:33:01.604Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:33:01.606Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:33:01.897Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:33:02.051Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:33:02.103Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:33:02.105Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:33:02.168Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:33:02.172Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:33:02.219Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:33:02.220Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:33:02.252Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:33:02.793Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:33:02.796Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:33:02.813Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:33:09.503Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:33:09.805Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:33:09.813Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:33:09.866Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:33:10.677Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:33:10.729Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:33:10.730Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:33:10.776Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:34:37.668Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:34:37.730Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:34:37.734Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:34:37.757Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:34:38.975Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:34:39.037Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:34:39.039Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:34:39.090Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:34:39.292Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:34:39.588Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:34:39.590Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:34:39.641Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:36:18.573Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:36:18.643Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:36:18.651Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:36:18.675Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:37:36.395Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:37:36.461Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:37:36.468Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:37:36.490Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:39:02.592Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:39:02.908Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:39:02.918Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:39:02.948Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:39:03.171Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:39:03.248Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:39:03.253Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:39:03.302Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:39:04.146Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:39:04.199Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:39:04.202Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:39:04.256Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:39:04.575Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:39:04.630Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:39:04.632Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:39:04.669Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:41:00.039Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:41:00.349Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:41:00.358Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:41:00.383Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:41:00.932Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:41:01.734Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:41:01.736Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:41:01.782Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:42:01.461Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:42:01.525Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:42:01.530Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:42:01.551Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:42:02.598Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:42:02.650Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:42:02.652Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:42:02.695Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:42:36.066Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:42:36.149Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:42:36.154Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:42:36.242Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:53.421Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:53.508Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:53.508Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:53.602Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:54.972Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:55.052Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:55.053Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:55.186Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:56.031Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:56.122Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:56.122Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:56.265Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:56.503Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:56.584Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:56.585Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:56.750Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:56.911Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:56.972Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:56.972Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:57.087Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:57.226Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:57.305Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:57.305Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:57.416Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:57.495Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:57.580Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:57.580Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:57.726Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:57.902Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:57.960Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:57.960Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:58.103Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:58.224Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:58.288Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:58.288Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:58.417Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:58.541Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:58.652Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:58.652Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:58.799Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:58.875Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:58.942Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:58.942Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:59.053Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:59.194Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:59.270Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:59.271Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:59.378Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:43:59.539Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:43:59.613Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:43:59.613Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:43:59.734Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:44:30.664Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:44:30.744Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:44:30.744Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:44:30.836Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:44:31.888Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:44:31.948Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:44:31.948Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:44:32.090Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:44:32.396Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:44:32.477Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:44:32.477Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:44:32.644Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:44:32.875Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:44:32.936Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:44:32.936Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:44:33.052Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:01.768Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:01.837Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:01.837Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:45:01.985Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:02.816Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:02.878Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:02.878Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:45:02.977Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:03.231Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:03.289Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:03.289Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:45:03.389Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:03.484Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:03.541Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:03.541Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:45:03.637Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:03.984Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.059Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.060Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.100Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.155Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.156Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.182Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.235Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.236Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.266Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.319Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.319Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.352Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.409Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.409Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.436Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.487Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.487Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.518Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.576Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.576Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.605Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.661Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.661Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.698Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.749Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.750Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.770Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.824Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.824Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.850Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.901Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.901Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:04.936Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:04.988Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:04.988Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:05.018Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:05.071Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:05.071Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:05.103Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:05.155Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:05.155Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:45:05.227Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:49.974Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:50.029Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:50.029Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:45:50.122Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:51.175Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:51.227Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:51.227Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:45:51.324Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:45:51.568Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:45:51.621Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:45:51.621Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:45:51.713Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:46:02.498Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:46:40.134Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:46:40.201Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:46:40.206Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:46:40.379Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:47:22.623Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:47:22.701Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:47:22.702Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:47:22.799Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:47:26.929Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T18:48:57.999Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:48:58.061Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:48:58.061Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:48:58.182Z"}
+{"level":"info","message":"GET request to /logout","timestamp":"2024-10-22T18:49:17.574Z"}
+{"level":"info","message":"User logged out","timestamp":"2024-10-22T18:49:17.674Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T18:49:17.686Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T18:49:17.718Z"}
+{"level":"info","message":"Homepage accessed by user: Guest","timestamp":"2024-10-22T18:49:17.722Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:49:17.773Z"}
+{"level":"info","message":"GET request to /auth/google","timestamp":"2024-10-22T18:49:21.963Z"}
+{"level":"info","message":"GET request to /google/callback?code=4%2F0AVG7fiQVJsaHqz8qHxLvWNHKQ-mKp-WXbYpP_boJQnOw_7B_ewkG45MIZLuINw4MbBaORw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent","timestamp":"2024-10-22T18:49:26.515Z"}
+{"level":"info","message":"User logged in: عبداللہ","timestamp":"2024-10-22T18:49:27.188Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:49:27.256Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:49:27.309Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:49:27.310Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:49:27.480Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:51:22.304Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:51:22.368Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:51:22.368Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:51:22.455Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:51:24.305Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:51:24.357Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:51:24.357Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:51:24.459Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:51:53.275Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:52:11.489Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:52:11.549Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:52:11.549Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:52:11.891Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:53:19.781Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:53:19.843Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:53:19.843Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:53:19.941Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T18:53:24.017Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:53:24.116Z"}
+{"level":"info","message":"User submitted search: hello","timestamp":"2024-10-22T18:53:24.117Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: hello","timestamp":"2024-10-22T18:53:24.145Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:53:24.179Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T18:53:39.092Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:53:39.152Z"}
+{"level":"info","message":"User submitted search: hello","timestamp":"2024-10-22T18:53:39.152Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: hello","timestamp":"2024-10-22T18:53:39.178Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:53:39.224Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T18:54:32.043Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:54:32.103Z"}
+{"level":"info","message":"User submitted search: hello","timestamp":"2024-10-22T18:54:32.103Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: hello","timestamp":"2024-10-22T18:54:32.128Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:54:32.165Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:54:35.914Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:54:35.970Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:54:35.970Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:54:36.041Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:54:37.203Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:54:37.268Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:54:37.268Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:54:37.370Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:54:37.514Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:54:37.832Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:54:37.833Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:54:37.933Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:54:55.792Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T18:55:12.219Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:55:12.291Z"}
+{"level":"info","message":"User submitted search: ","timestamp":"2024-10-22T18:55:12.291Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: ","timestamp":"2024-10-22T18:55:12.321Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:55:12.361Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:56:32.686Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:56:32.748Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:56:32.748Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:56:32.838Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T18:59:36.180Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T18:59:36.257Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T18:59:36.258Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:59:36.345Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T18:59:48.489Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:00:23.993Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:00:24.053Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:00:24.053Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:00:24.159Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:01:02.463Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:01:02.527Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:01:02.527Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:01:02.630Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:01:03.310Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:01:03.366Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:01:03.366Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:01:03.462Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:01:03.950Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:01:04.007Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:01:04.007Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:01:04.108Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:01:04.337Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:01:04.392Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:01:04.393Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:01:04.499Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T19:01:13.657Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:01:13.953Z"}
+{"level":"info","message":"User viewed note: 6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T19:01:13.954Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:01:14.017Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:02:22.702Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:02:22.760Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:02:22.760Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:02:22.868Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:02:23.904Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:02:23.963Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:02:23.963Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:02:24.074Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:02:24.225Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:02:24.282Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:02:24.282Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:02:24.380Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:02:24.454Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:02:24.656Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:02:24.711Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:02:24.711Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:02:24.742Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:02:24.742Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:02:24.772Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:02:24.911Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:02:24.978Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:02:24.978Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:02:25.070Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:04:01.550Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:04:01.616Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:04:01.616Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:04:01.986Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:04:02.339Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:04:02.393Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:04:02.394Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:04:02.513Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:04:03.203Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:04:03.262Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:04:03.264Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:04:03.361Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:04:36.997Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:04:37.059Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:04:37.059Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:04:37.168Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:04:38.192Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:04:38.246Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:04:38.246Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:04:38.601Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:04:45.912Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:04:45.976Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:04:45.976Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:04:46.075Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:04:51.599Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:04:56.330Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:04:56.386Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:04:56.386Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:04:56.483Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717c9e5faacb51ca51a0cf4","timestamp":"2024-10-22T19:04:59.397Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:04:59.462Z"}
+{"level":"info","message":"User viewed note: 6717c9e5faacb51ca51a0cf4","timestamp":"2024-10-22T19:04:59.462Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:04:59.529Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:05:01.458Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:05:31.228Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:05:31.288Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:05:31.289Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:05:31.380Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:05:32.129Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:05:32.183Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:05:32.185Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:05:32.576Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:05:32.663Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:05:32.875Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:05:32.876Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:05:32.975Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:05:35.857Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:05:35.914Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:05:35.914Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:05:36.019Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:05:48.409Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:05:48.466Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:05:48.466Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:05:48.549Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:06:21.589Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:06:21.881Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:06:21.881Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:06:21.968Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:06:22.606Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:06:22.665Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:06:22.665Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:06:22.761Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:06:22.884Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:06:22.938Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:06:22.939Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:06:23.163Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:06:23.219Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:06:23.219Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:06:23.291Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:06:23.393Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:06:23.447Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:06:23.456Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:06:23.553Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:08:00.378Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:08:00.445Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:08:00.445Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:08:00.551Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:08:01.462Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:08:01.515Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:08:01.515Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:08:01.784Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:08:01.838Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:08:01.838Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:08:02.145Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:08:03.755Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:08:03.809Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:08:03.809Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:08:03.888Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:08:34.035Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:08:34.094Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:08:34.095Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:08:34.186Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:08:47.996Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:08:48.056Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:08:48.056Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:08:48.154Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:10:04.610Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:10:04.914Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:10:04.914Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:10:05.010Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:11:42.683Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:11:42.750Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:11:42.750Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:11:42.845Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:12:22.277Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:12:22.837Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:12:22.837Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:12:22.909Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:12:23.010Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:12:23.010Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:12:23.102Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:12:23.378Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:12:23.428Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:12:23.428Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:12:23.519Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:12:34.065Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:12:34.124Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:12:34.124Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:12:34.471Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:12:35.265Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:12:35.318Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:12:35.319Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:12:35.419Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:12:36.037Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:12:36.165Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:12:36.165Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:12:36.275Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:13:15.623Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:13:15.939Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:13:15.940Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:13:16.033Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:13:27.316Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:13:27.384Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:13:27.384Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:13:27.461Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:13:28.631Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:13:28.685Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:13:28.685Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:13:28.761Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:13:30.731Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:13:30.786Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:13:30.787Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:13:30.900Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:13:32.928Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:13:32.983Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:13:32.983Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:13:33.088Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:14:37.358Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:14:37.424Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:14:37.425Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:14:37.520Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:14:38.213Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:14:38.270Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:14:38.270Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:14:38.362Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:14:38.783Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:14:38.838Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:14:38.838Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:14:38.940Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:14:39.099Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:14:39.379Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:14:39.391Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:14:39.391Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:14:39.432Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:14:39.432Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:14:39.502Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:14:39.657Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:14:39.708Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:14:39.708Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:14:39.798Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:14:39.897Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:14:39.948Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:14:39.949Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:14:40.039Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:15:55.119Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:15:55.187Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:15:55.187Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:15:55.309Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:15:57.415Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:15:57.709Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:15:57.709Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:15:58.043Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:16:10.263Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:16:10.382Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:16:10.382Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:16:10.500Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:16:11.910Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:16:11.964Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:16:11.964Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:16:12.067Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:16:34.255Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:16:34.312Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:16:34.313Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:16:34.398Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:16:40.949Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:16:41.046Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:16:41.046Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:16:41.128Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:16:42.112Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:16:42.165Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:16:42.165Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:16:42.267Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:18:29.400Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:18:29.466Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:18:29.467Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:18:29.568Z"}
+{"level":"info","message":"GET request to /dashboard?page=2","timestamp":"2024-10-22T19:18:32.369Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:18:32.432Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:18:32.432Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:18:32.511Z"}
+{"level":"info","message":"GET request to /dashboard?page=1","timestamp":"2024-10-22T19:18:34.383Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:18:34.443Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:18:34.443Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:18:34.546Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T19:18:41.612Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:18:41.692Z"}
+{"level":"info","message":"User submitted search: ,sbaz jsbc","timestamp":"2024-10-22T19:18:41.692Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: ,sbaz jsbc","timestamp":"2024-10-22T19:18:41.718Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:18:41.734Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:18:46.683Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:18:46.752Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:18:46.753Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:18:46.813Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:51.693Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:20:51.765Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:51.765Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:20:51.838Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:52.812Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:20:52.864Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:52.864Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:20:52.941Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:53.267Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:20:53.319Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:53.319Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:20:53.383Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:53.827Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:20:53.879Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:53.879Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:20:53.948Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:54.416Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:20:54.469Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:20:54.469Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:20:54.543Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:23:20.632Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:23:20.709Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:23:20.709Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:23:20.772Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:23:37.408Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:24:13.153Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:24:13.219Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:24:13.220Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:24:13.285Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:25:24.968Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:25:25.037Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:25:25.037Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:25:25.100Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:26:59.063Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:26:59.171Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:26:59.172Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:26:59.241Z"}
+{"level":"info","message":"POST request to /dashboard/item/6717ca5df7bf0f9a4c5e6389?_method=PUT","timestamp":"2024-10-22T19:27:20.569Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:27:20.628Z"}
+{"level":"info","message":"User updated note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:27:20.629Z"}
+{"level":"info","message":"Note updated: 6717ca5df7bf0f9a4c5e6389 by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:27:20.670Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:27:20.673Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:27:20.724Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:27:20.724Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:27:20.796Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:27:22.858Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:27:22.910Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:27:22.910Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:27:22.967Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:29:05.173Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:29:05.233Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:29:05.234Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:29:05.289Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:29:06.120Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:29:06.179Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:29:06.179Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:29:06.299Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:29:24.662Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:29:24.728Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:29:24.728Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:29:24.784Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:29:47.782Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:29:47.844Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:29:47.845Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:29:47.915Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:30:00.889Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:30:19.911Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:30:19.968Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:30:19.968Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:30:20.049Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:30:20.346Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:30:20.398Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:30:20.399Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:30:20.468Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:30:27.813Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:30:27.864Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:30:27.864Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:30:27.907Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T19:32:17.540Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:32:17.619Z"}
+{"level":"info","message":"User submitted search: ,sbaz jsbc","timestamp":"2024-10-22T19:32:17.620Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: ,sbaz jsbc","timestamp":"2024-10-22T19:32:17.646Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:32:17.693Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:32:23.666Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:32:23.718Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:32:23.718Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:32:23.821Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:32:25.346Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:32:25.400Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:32:25.400Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:32:25.500Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca60f7bf0f9a4c5e6392","timestamp":"2024-10-22T19:32:26.103Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:32:26.159Z"}
+{"level":"info","message":"User viewed note: 6717ca60f7bf0f9a4c5e6392","timestamp":"2024-10-22T19:32:26.159Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:32:26.225Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:33:09.766Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca60f7bf0f9a4c5e6392","timestamp":"2024-10-22T19:35:35.842Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:35:35.915Z"}
+{"level":"info","message":"User viewed note: 6717ca60f7bf0f9a4c5e6392","timestamp":"2024-10-22T19:35:35.916Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:35:35.977Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca60f7bf0f9a4c5e6392","timestamp":"2024-10-22T19:37:21.140Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:21.209Z"}
+{"level":"info","message":"User viewed note: 6717ca60f7bf0f9a4c5e6392","timestamp":"2024-10-22T19:37:21.209Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:21.298Z"}
+{"level":"info","message":"POST request to /dashboard/item-delete/6717ca60f7bf0f9a4c5e6392?_method=DELETE","timestamp":"2024-10-22T19:37:29.083Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:29.135Z"}
+{"level":"info","message":"User deleted note: 6717ca60f7bf0f9a4c5e6392","timestamp":"2024-10-22T19:37:29.136Z"}
+{"level":"info","message":"Note deleted: 6717ca60f7bf0f9a4c5e6392 by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:29.163Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:37:29.169Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:29.219Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:37:29.220Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:29.326Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:37:30.650Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:30.704Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T19:37:30.705Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:30.760Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:37:36.628Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:36.684Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:37:36.684Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:36.809Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:37:37.505Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:37.558Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:37:37.558Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:37.653Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:37:38.051Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:38.110Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:37:38.110Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:38.203Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:37:38.390Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:38.441Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:37:38.441Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:38.531Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:37:38.671Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:38.721Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:37:38.721Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:38.810Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:37:38.996Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:39.048Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:37:39.048Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:39.148Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T19:37:41.524Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:37:41.575Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:37:41.575Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:37:41.646Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T19:43:43.155Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:43:43.725Z"}
+{"level":"info","message":"User viewed note: 6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T19:43:43.725Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:43:43.842Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca38f7bf0f9a4c5e634d","timestamp":"2024-10-22T19:45:50.269Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:45:50.349Z"}
+{"level":"info","message":"User viewed note: 6717ca38f7bf0f9a4c5e634d","timestamp":"2024-10-22T19:45:50.350Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:45:50.419Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T19:51:19.608Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:51:20.441Z"}
+{"level":"info","message":"User submitted search: he","timestamp":"2024-10-22T19:51:20.441Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: he","timestamp":"2024-10-22T19:51:20.469Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:51:20.556Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:51:38.268Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:51:38.342Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:51:38.343Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:51:38.369Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:52:51.478Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:52:51.531Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:52:51.532Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:52:51.572Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:52:52.789Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:52:52.838Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:52:52.838Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:52:52.884Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:54:13.480Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:54:13.546Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:54:13.547Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:54:13.597Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:54:14.577Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:54:14.624Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:54:14.624Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:54:14.659Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:55:03.088Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:55:03.152Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:55:03.152Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:55:03.195Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:55:34.038Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:55:34.096Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:55:34.096Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:55:34.118Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:55:34.909Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:55:34.959Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:55:34.959Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:55:34.997Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:55:35.347Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:55:35.407Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:55:35.407Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:55:35.452Z"}
+{"level":"info","message":"POST request to /dashboard/add","timestamp":"2024-10-22T19:55:48.825Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:55:48.915Z"}
+{"level":"info","message":"User submitted a new note","timestamp":"2024-10-22T19:55:48.916Z"}
+{"level":"info","message":"New note created by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:55:48.963Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T19:55:48.968Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:55:49.014Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T19:55:49.014Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:55:49.123Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:56:31.007Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:56:31.062Z"}
+{"level":"info","message":"User viewed note: 67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:56:31.062Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:56:31.126Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:58:30.276Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:58:30.350Z"}
+{"level":"info","message":"User viewed note: 67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:58:30.350Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:58:30.431Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:58:31.683Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:58:31.732Z"}
+{"level":"info","message":"User viewed note: 67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:58:31.732Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:58:31.809Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:58:32.040Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:58:32.242Z"}
+{"level":"info","message":"User viewed note: 67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:58:32.242Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:58:32.314Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:58:42.067Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:58:42.129Z"}
+{"level":"info","message":"User viewed note: 67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:58:42.130Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:58:42.187Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:59:53.823Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:59:53.993Z"}
+{"level":"info","message":"User viewed note: 67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:59:53.993Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:59:54.065Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:59:55.009Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:59:55.058Z"}
+{"level":"info","message":"User viewed note: 67180344dc5b3bf0f578a085","timestamp":"2024-10-22T19:59:55.058Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:59:55.125Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T19:59:57.811Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T19:59:57.869Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T19:59:57.869Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T19:59:57.891Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T20:00:01.833Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:00:01.891Z"}
+{"level":"info","message":"User viewed note: 6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T20:00:01.891Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:00:01.953Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:00:08.263Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:00:08.324Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:00:08.325Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:00:08.375Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:00:10.793Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:00:10.865Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:00:10.865Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:00:10.904Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:01:02.940Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:01:03.091Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:01:03.091Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:01:03.180Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:01:05.282Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:01:05.356Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:01:05.356Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:01:05.457Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:01:06.362Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:01:06.476Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:01:06.477Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:01:06.554Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:01:15.247Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:01:15.315Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:01:15.315Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:01:15.362Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:01:29.894Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:01:29.952Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:01:29.952Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:01:30.036Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:01:32.540Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:01:32.598Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:01:32.598Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:01:32.648Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:01:35.161Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:01:35.221Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:01:35.221Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:01:35.307Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:02:21.904Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:02:21.969Z"}
+{"level":"info","message":"User viewed note: 6717ca5df7bf0f9a4c5e6389","timestamp":"2024-10-22T20:02:21.969Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:02:22.065Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:02:24.311Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:02:24.361Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:02:24.361Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:02:24.382Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:02:25.653Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:02:25.703Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:02:25.703Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:02:25.772Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T20:02:28.804Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:02:28.857Z"}
+{"level":"info","message":"User viewed note: 6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T20:02:28.857Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:02:28.903Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T20:02:34.413Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:02:34.467Z"}
+{"level":"info","message":"User viewed note: 6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T20:02:34.468Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:02:34.552Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca48f7bf0f9a4c5e635c","timestamp":"2024-10-22T20:02:37.598Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:02:37.647Z"}
+{"level":"info","message":"User viewed note: 6717ca48f7bf0f9a4c5e635c","timestamp":"2024-10-22T20:02:37.647Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:02:37.702Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:02:42.661Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:02:42.712Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:02:42.713Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:02:42.781Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:03:13.770Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:03:13.846Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:03:13.846Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:03:13.874Z"}
+{"level":"info","message":"POST request to /dashboard/add","timestamp":"2024-10-22T20:03:25.585Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:03:25.642Z"}
+{"level":"info","message":"User submitted a new note","timestamp":"2024-10-22T20:03:25.642Z"}
+{"level":"info","message":"New note created by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:03:25.673Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:03:25.678Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:03:25.725Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:03:25.726Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:03:26.043Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T20:03:27.495Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:03:27.545Z"}
+{"level":"info","message":"User viewed note: 6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T20:03:27.545Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:03:27.626Z"}
+{"level":"info","message":"POST request to /dashboard/item-delete/6717ca58f7bf0f9a4c5e6380?_method=DELETE","timestamp":"2024-10-22T20:03:31.789Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:03:31.839Z"}
+{"level":"info","message":"User deleted note: 6717ca58f7bf0f9a4c5e6380","timestamp":"2024-10-22T20:03:31.839Z"}
+{"level":"info","message":"Note deleted: 6717ca58f7bf0f9a4c5e6380 by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:03:31.866Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:03:31.870Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:03:31.919Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:03:31.919Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:03:32.000Z"}
+{"level":"info","message":"GET request to /dashboard/item/6717ca48f7bf0f9a4c5e635c","timestamp":"2024-10-22T20:03:33.055Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:03:33.152Z"}
+{"level":"info","message":"User viewed note: 6717ca48f7bf0f9a4c5e635c","timestamp":"2024-10-22T20:03:33.152Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:03:33.226Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:04:03.799Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:04:03.849Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:04:03.849Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:04:03.923Z"}
+{"level":"info","message":"GET request to /images/human-3.svg","timestamp":"2024-10-22T20:04:03.930Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:04:05.563Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:04:05.616Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:04:05.616Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:04:05.737Z"}
+{"level":"info","message":"GET request to /images/human-3.svg","timestamp":"2024-10-22T20:04:05.739Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:04:06.161Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:04:06.215Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:04:06.215Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:04:06.310Z"}
+{"level":"info","message":"GET request to /images/human-3.svg","timestamp":"2024-10-22T20:04:06.311Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:04:06.568Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:04:06.618Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:04:06.619Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:04:06.717Z"}
+{"level":"info","message":"GET request to /images/human-3.svg","timestamp":"2024-10-22T20:04:06.718Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:05:21.056Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:05:21.128Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:05:21.128Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:05:21.291Z"}
+{"level":"info","message":"GET request to /images/human-3.svg","timestamp":"2024-10-22T20:05:21.292Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:05:22.406Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:05:22.457Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:05:22.458Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:05:22.477Z"}
+{"level":"info","message":"POST request to /dashboard/add","timestamp":"2024-10-22T20:05:29.151Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:05:29.208Z"}
+{"level":"info","message":"User submitted a new note","timestamp":"2024-10-22T20:05:29.208Z"}
+{"level":"info","message":"New note created by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:05:29.267Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:05:29.273Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:05:29.324Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:05:29.326Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:05:29.479Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:05:49.767Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:05:49.842Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:05:49.843Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:05:49.968Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:05:50.668Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:05:50.726Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:05:50.726Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:05:50.846Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:05:51.158Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:05:51.209Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:05:51.209Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:05:51.301Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:05:52.922Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:05:52.992Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:05:52.993Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:05:53.093Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T20:06:33.776Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:06:33.842Z"}
+{"level":"info","message":"User submitted search: d","timestamp":"2024-10-22T20:06:33.842Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: d","timestamp":"2024-10-22T20:06:33.869Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:06:33.926Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T20:07:38.649Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:07:38.716Z"}
+{"level":"info","message":"User submitted search: d","timestamp":"2024-10-22T20:07:38.716Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: d","timestamp":"2024-10-22T20:07:38.745Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:07:38.787Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:07:42.221Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:07:42.296Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:07:42.296Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:07:42.644Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T20:11:25.171Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:11:25.242Z"}
+{"level":"info","message":"User submitted search: d","timestamp":"2024-10-22T20:11:25.242Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: d","timestamp":"2024-10-22T20:11:25.266Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:11:25.361Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T20:11:28.195Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:11:28.248Z"}
+{"level":"info","message":"User submitted search: d","timestamp":"2024-10-22T20:11:28.248Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: d","timestamp":"2024-10-22T20:11:28.273Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:11:28.285Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T20:13:33.657Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:13:33.745Z"}
+{"level":"info","message":"User submitted search: d","timestamp":"2024-10-22T20:13:33.745Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: d","timestamp":"2024-10-22T20:13:33.773Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:13:33.848Z"}
+{"level":"info","message":"GET request to /about","timestamp":"2024-10-22T20:13:35.876Z"}
+{"level":"info","message":"User accessed about page","timestamp":"2024-10-22T20:13:35.932Z"}
+{"level":"info","message":"About page accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:13:35.935Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:13:35.966Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:13:54.267Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:13:54.322Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:13:54.322Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:13:54.385Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:14:16.184Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:14:16.252Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:14:16.252Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:14:16.353Z"}
+{"level":"info","message":"GET request to /about","timestamp":"2024-10-22T20:14:18.842Z"}
+{"level":"info","message":"User accessed about page","timestamp":"2024-10-22T20:14:19.136Z"}
+{"level":"info","message":"About page accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:14:19.141Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:14:19.163Z"}
+{"level":"info","message":"GET request to /about","timestamp":"2024-10-22T20:14:20.133Z"}
+{"level":"info","message":"User accessed about page","timestamp":"2024-10-22T20:14:20.201Z"}
+{"level":"info","message":"About page accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:14:20.203Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:14:20.267Z"}
+{"level":"info","message":"GET request to /about","timestamp":"2024-10-22T20:14:58.921Z"}
+{"level":"info","message":"User accessed about page","timestamp":"2024-10-22T20:14:59.037Z"}
+{"level":"info","message":"About page accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:14:59.039Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:14:59.070Z"}
+{"level":"info","message":"GET request to /about","timestamp":"2024-10-22T20:14:59.368Z"}
+{"level":"info","message":"User accessed about page","timestamp":"2024-10-22T20:14:59.420Z"}
+{"level":"info","message":"About page accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:14:59.421Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:14:59.456Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:15:31.619Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:15:31.682Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:15:31.683Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:15:31.774Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:15:37.886Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:15:37.941Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:15:37.941Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:15:37.999Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:15:41.656Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:15:41.756Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:15:41.756Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:15:41.846Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:17:11.264Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:17:11.322Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:17:11.322Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:17:11.446Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:17:12.067Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:17:12.121Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:17:12.122Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:17:12.179Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:17:33.197Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:17:33.266Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:17:33.266Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:17:33.332Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:17:45.061Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:17:45.119Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:17:45.120Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:17:45.160Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:17:49.139Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:17:49.201Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:17:49.201Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:17:49.248Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:17:50.366Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:17:50.424Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:17:50.424Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:17:50.512Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:17:54.652Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:17:54.734Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:17:54.734Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:17:54.803Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:18:43.365Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:18:43.425Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:18:43.425Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:18:43.521Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:18:46.406Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:18:46.459Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:18:46.459Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:19:09.999Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:19:10.056Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:19:10.056Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:19:10.078Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:19:12.737Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:19:12.794Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:19:12.794Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:19:12.901Z"}
+{"level":"info","message":"GET request to /","timestamp":"2024-10-22T20:19:14.557Z"}
+{"level":"info","message":"User accessed homepage","timestamp":"2024-10-22T20:19:14.612Z"}
+{"level":"info","message":"Homepage accessed by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:19:14.616Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:19:14.639Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:19:37.193Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:19:37.261Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:19:37.261Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:19:37.346Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:20:24.921Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:20:24.978Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:20:24.978Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:20:25.047Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:20:33.547Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:20:33.612Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:20:33.612Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:20:33.745Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:20:36.196Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:20:36.274Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:20:36.274Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:20:36.323Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:21:00.113Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:21:00.168Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:21:00.168Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:00.229Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:21:02.096Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:21:02.147Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:21:02.147Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:02.197Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:21:02.829Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:21:02.881Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:21:02.881Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:02.948Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:21:03.269Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:21:03.321Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:21:03.321Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:03.388Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:19.406Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:35.314Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:21:38.068Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:21:38.157Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:21:38.157Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:38.226Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:21:42.766Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:21:42.866Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:21:42.867Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:42.981Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:54.094Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:21:56.590Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:21:56.648Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:21:56.649Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:21:56.717Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:22:35.918Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:22:35.982Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:22:35.983Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:22:36.057Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:22:39.018Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:22:39.074Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:22:39.074Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:22:39.155Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:22:40.560Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:22:41.017Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:22:41.075Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:22:41.075Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:22:41.153Z"}
+{"level":"info","message":"GET request to /dashboard/item/67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:22:48.870Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:22:48.924Z"}
+{"level":"info","message":"User viewed note: 67180589dc5b3bf0f578a0ff","timestamp":"2024-10-22T20:22:48.925Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:22:49.002Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:22:52.602Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:22:52.666Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:22:52.666Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:22:52.732Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:23:12.432Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:23:28.663Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:24:59.069Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:25:29.134Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:25:29.197Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:25:29.197Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:25:29.309Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:25:53.388Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:25:53.443Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:25:53.443Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:25:53.536Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:25:54.532Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:25:54.590Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:25:54.590Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:25:54.697Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:26:39.507Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:26:39.562Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:26:39.562Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:26:39.907Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:26:40.881Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:26:40.962Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:26:40.962Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:26:41.218Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:26:47.647Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:26:47.716Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:26:47.716Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:26:47.842Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:26:48.020Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:26:48.073Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:26:48.073Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:26:48.167Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:26:48.371Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:26:48.422Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:26:48.422Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:26:48.513Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:26:48.743Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:26:48.794Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:26:48.794Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:26:49.030Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:27:03.196Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:03.251Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:27:03.251Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:03.351Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:27:04.013Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:04.073Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:27:04.073Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:04.164Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:27:04.689Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:04.743Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:27:04.743Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:04.829Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:27:05.292Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:05.343Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:27:05.343Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:05.430Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:27:05.894Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:05.945Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:27:05.945Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:06.034Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:27:06.490Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:06.540Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:27:06.540Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:06.630Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:27:07.087Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:07.137Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:27:07.138Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:07.224Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:27:24.038Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:24.090Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:27:24.091Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:24.183Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T20:27:33.628Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:33.699Z"}
+{"level":"info","message":"User submitted search: h","timestamp":"2024-10-22T20:27:33.700Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: h","timestamp":"2024-10-22T20:27:33.726Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:33.783Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:36.150Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T20:27:39.907Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:27:39.961Z"}
+{"level":"info","message":"User submitted search: n","timestamp":"2024-10-22T20:27:39.961Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: n","timestamp":"2024-10-22T20:27:39.986Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:27:40.049Z"}
+{"level":"info","message":"POST request to /dashboard/search","timestamp":"2024-10-22T20:29:00.110Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:29:00.169Z"}
+{"level":"info","message":"User submitted search: n","timestamp":"2024-10-22T20:29:00.169Z"}
+{"level":"info","message":"Search performed by user: 67174a39d38bda6296a37539 for term: n","timestamp":"2024-10-22T20:29:00.193Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:29:00.237Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:30:44.834Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:30:44.925Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:30:44.925Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:30:45.047Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:30:46.104Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:30:46.174Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:30:46.178Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:30:46.271Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:30:58.852Z"}
+{"level":"info","message":"GET request to /dAshboard","timestamp":"2024-10-22T20:33:08.237Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:33:08.319Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:33:08.319Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:33:08.454Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:33:46.271Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:33:47.654Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:33:50.140Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:33:50.196Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:33:50.196Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:33:50.298Z"}
+{"level":"info","message":"POST request to /dashboard/add","timestamp":"2024-10-22T20:33:58.961Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:33:59.052Z"}
+{"level":"info","message":"User submitted a new note","timestamp":"2024-10-22T20:33:59.053Z"}
+{"level":"info","message":"New note created by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:33:59.093Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:33:59.099Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:33:59.145Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:33:59.145Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:33:59.254Z"}
+{"level":"info","message":"GET request to /dashboard/add","timestamp":"2024-10-22T20:34:04.331Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:34:04.404Z"}
+{"level":"info","message":"User accessed add note page","timestamp":"2024-10-22T20:34:04.404Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:34:04.477Z"}
+{"level":"info","message":"POST request to /dashboard/add","timestamp":"2024-10-22T20:34:10.883Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:34:10.937Z"}
+{"level":"info","message":"User submitted a new note","timestamp":"2024-10-22T20:34:10.938Z"}
+{"level":"info","message":"New note created by user: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:34:10.965Z"}
+{"level":"info","message":"GET request to /dashboard","timestamp":"2024-10-22T20:34:10.969Z"}
+{"level":"info","message":"User authenticated: 67174a39d38bda6296a37539","timestamp":"2024-10-22T20:34:11.017Z"}
+{"level":"info","message":"User accessed dashboard: عبداللہ","timestamp":"2024-10-22T20:34:11.017Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:34:11.128Z"}
+{"level":"info","message":"GET request to /stylesheets/main.css","timestamp":"2024-10-22T20:34:30.376Z"}

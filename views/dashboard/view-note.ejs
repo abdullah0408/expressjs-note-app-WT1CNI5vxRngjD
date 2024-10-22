@@ -1,54 +1,175 @@
-<div class="container-fluid container-fluid-custom pb-5 mb-5">
-  <div class="row mb-4">
-      <div class="col">
-          <nav aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                  <li class="breadcrumb-item">
-                      <a href="/dashboard">Dashboard</a>
-                  </li>
-                  <li class="breadcrumb-item active">
-                      <%= note.title %>
-                  </li>
-              </ol>
-          </nav>
-          <div class="col d-flex justify-content-between align-items-center">
-              <h1 class="h3">View Note</h1>
-              <button type="button" class="btn btn-danger" data-bs-toggle="modal" id="deleteButton" data-bs-target="#exampleModal">Delete</button>
-          </div>
-      </div>
+<div class="container mx-auto pb-5 mb-5">
+  <div class="flex justify-between items-center">
+    <nav aria-label="breadcrumb" class="text-sm">
+      <ol class="flex space-x-2">
+        <li>
+          <a href="/" class="text-blue-500 hover:underline"
+            >Home</a
+          >
+        </li>
+        <li>
+          <span class="text-gray-500">/</span>
+        </li>
+        <li>
+          <a href="/dashboard" class="text-blue-500 hover:underline"
+            >Dashboard</a
+          >
+        </li>
+        <li>
+          <span class="text-gray-500">/</span>
+        </li>
+        <li>
+          <span class="text-gray-600 font-semibold"><%= note.title %></span>
+        </li>
+      </ol>
+    </nav>
+    <button
+      type="button"
+      class="bg-red-500 text-white rounded-md px-4 py-2 hover:bg-red-600 transition duration-300"
+      id="deleteButton"
+    >
+      Delete
+    </button>
   </div>
-  <form action="/dashboard/item/<%= noteID %>?_method=PUT" method="post">
-      <div>
-          <input type="text" id="title" name="title" value="<%= note.title %>" placeholder="Title" class="form-control">
-      </div>
-      <div>
-          <textarea id="body" name="body" placeholder="Body" class="form-control"><%= note.body %></textarea>
-      </div>
-      <div>
-          <button type="submit" class="btn btn-primary">Update</button>
-      </div>
+  <div class="flex justify-between items-center mb-4">
+    <h1 class="text-4xl font-semibold">View Note</h1> <!-- Title size -->
+  </div>
+  <!-- Form to Update Note -->
+  <form
+    action="/dashboard/item/<%= noteID %>?_method=PUT"
+    method="post"
+    class="space-y-4"
+  >
+    <div>
+      <input
+        type="text"
+        id="title"
+        name="title"
+        value="<%= note.title %>"
+        placeholder="Title"
+        class="w-full p-4 text-2xl border border-gray-300 rounded focus:outline-none focus:ring focus:ring-blue-500"
+        required
+      />
+    </div>
+    <div>
+      <textarea
+        id="body"
+        name="body"
+        placeholder="Body"
+        class="w-full px-4 py-3 text-base border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 resize-y"
+        rows="10"
+        required
+      >
+<%= note.body %></textarea
+      >
+    </div>
+    <div>
+      <button
+        type="submit"
+        class="bg-blue-500 text-white rounded-md px-4 py-2 hover:bg-blue-600 transition duration-300"
+      >
+        Update
+      </button>
+    </div>
   </form>
 </div>
 
 <!-- Modal -->
-<div class="modal" tabindex="-1" role="dialog" id="exampleModal">
-  <div class="modal-dialog" role="document">
-      <div class="modal-content">
-          <div class="modal-header">
-              <h5 class="modal-title">Confirm Delete</h5>
-              <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-              </button>
-          </div>
-          <div class="modal-body">
-              <p>Are you sure you want to delete the note titled "<%= note.title %>"?</p>
-          </div>
-          <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-              <form action="/dashboard/item-delete/<%= noteID %>?_method=DELETE" method="post">
-                  <button type="submit" class="btn btn-danger">Delete</button>
-              </form>
-          </div>
+<div
+  class="modal fixed inset-0 flex items-center justify-center z-50 hidden"
+  id="exampleModal"
+  aria-labelledby="modalTitle"
+  aria-modal="true"
+>
+  <div class="overlay fixed inset-0 bg-black opacity-50"></div>
+  <div
+    class="modal-dialog bg-white rounded-lg shadow-lg max-w-md w-full relative z-10 transform transition-transform scale-95 opacity-0"
+    id="modalContent"
+  >
+    <div class="modal-content p-6">
+      <button
+        type="button"
+        class="absolute top-4 right-4 text-gray-500 hover:text-gray-700"
+        onclick="closeModal()"
+      >
+        <span aria-hidden="true">&times;</span>
+      </button>
+      <div class="modal-header border-b mb-4">
+        <h5 class="modal-title text-lg font-semibold" id="modalTitle">
+          Confirm Delete
+        </h5>
       </div>
+      <div class="modal-body">
+        <p class="text-gray-700">
+          Are you sure you want to delete the note titled "<%= note.title %>"?
+        </p>
+      </div>
+      <div class="modal-footer border-t p-4 flex justify-end space-x-2">
+        <button
+          type="button"
+          class="bg-gray-300 text-gray-700 rounded-md px-4 py-2 hover:bg-gray-400 transition duration-300"
+          onclick="closeModal()"
+        >
+          Close
+        </button>
+        <form
+          id="deleteForm"
+          action="/dashboard/item-delete/<%= noteID %>?_method=DELETE"
+          method="post"
+          class="inline"
+        >
+          <button
+            type="submit"
+            class="bg-red-500 text-white rounded-md px-4 py-2 hover:bg-red-600 transition duration-300"
+          >
+            Delete
+          </button>
+        </form>
+      </div>
+    </div>
   </div>
 </div>
+
+<script>
+  // Show the modal when the delete button is clicked
+  document
+    .getElementById("deleteButton")
+    .addEventListener("click", function () {
+      const modal = document.getElementById("exampleModal");
+      const modalContent = document.getElementById("modalContent");
+      modal.classList.remove("hidden");
+
+      // Add animation classes
+      setTimeout(() => {
+        modalContent.classList.remove("scale-95", "opacity-0");
+        modalContent.classList.add("scale-100", "opacity-100");
+      }, 10);
+    });
+
+  // Close the modal
+  function closeModal() {
+    const modal = document.getElementById("exampleModal");
+    const modalContent = document.getElementById("modalContent");
+
+    // Remove animation classes
+    modalContent.classList.add("scale-95", "opacity-0");
+    setTimeout(() => {
+      modal.classList.add("hidden");
+    }, 300); // Match with the transition duration
+  }
+
+  // Close the modal when clicking outside of modal content
+  window.onclick = function (event) {
+    const modal = document.getElementById("exampleModal");
+    if (event.target === modal) {
+      closeModal();
+    }
+  };
+</script>
+
+<style>
+  /* Add transitions for modal appearance */
+  .modal-dialog {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+</style>

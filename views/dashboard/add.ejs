@@ -1,31 +1,41 @@
-<div class="container-fluid container-fluid-custom pb-5 mb-5">
-    <div class="row mb-4">
-        <div class="col">
-            <nav aria-label="breadcrump">
-                <ol class="breadcrump">
-                    <li class="breadcrump-item">
-                        <a href="/dashboard">Dashboard</a>
-                    </li>
-                    <li class="breadcrump-item active">
-                        Add Note
-                    </li>
-                </ol>
-            </nav>
-            <div class="col d-flex justify-containt-between align-items-center">
-                <h1 class="h3"> Add Note</h1>
-            </div>
+<div class="container mx-auto pb-5 mb-5">
+    <div class="mb-4">
+        <nav aria-label="breadcrumb" class="text-sm">
+            <ol class="flex space-x-2">
+              <li>
+                <a href="/" class="text-blue-500 hover:underline"
+                  >Home</a
+                >
+              </li>
+              <li>
+                <span class="text-gray-500">/</span>
+              </li>
+              <li>
+                <a href="/dashboard" class="text-blue-500 hover:underline"
+                  >Dashboard</a
+                >
+              </li>
+              <li>
+                <span class="text-gray-500">/</span>
+              </li>
+              <li>
+                <span class="text-gray-600 font-semibold">New Note</span>
+              </li>
+            </ol>
+          </nav>
+        <div class="flex justify-between items-center mb-4">
+            <h1 class="text-4xl font-semibold">Add Note</h1> <!-- Title size -->
         </div>
     </div>
-    <form action="/dashboard/add" method="post">
+    <form action="/dashboard/add" method="post" class="space-y-4">
         <div>
-            <input type="text" id="title" name="title" placeholder="Title">
+            <input type="text" id="title" name="title" placeholder="Title" class="w-full p-4 text-2xl border border-gray-300 rounded focus:outline-none focus:ring focus:ring-blue-500" required> <!-- Bigger input title -->
         </div>
         <div>
-            <textarea type="text" id="body" name="body" placeholder="body"></textarea>
-            
+            <textarea id="body" name="body" placeholder="Body" class="w-full px-4 py-3 text-base border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 resize-y" rows="10" required></textarea>
         </div>
         <div>
-            <button type="submit">+ Add Note</button>
+            <button type="submit" class="bg-blue-500 text-white rounded-md px-4 py-2 hover:bg-blue-600 transition duration-300">+ Add Note</button>
         </div>
     </form>
 </div>

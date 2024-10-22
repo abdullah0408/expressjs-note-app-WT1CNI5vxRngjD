@@ -1,19 +1,62 @@
-<div class="container-fluid">
-<header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4">
-    <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-primary text-decoration-none fw-bold fs-2">
-        Notes
-    </a>
+<div class="container mx-auto px-4">
+  <header class="flex items-center justify-between py-3 mb-4 relative">
+      <a href="/" class="text-primary font-bold text-3xl">Notes</a>
 
-    <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-      <li><a href="/" class="nav-link px-2 link-secondary">Home</a></li>
-      <li><a href="#" class="nav-link px-2 link-dark">Features</a></li>
-      <li><a href="#" class="nav-link px-2 link-dark">FAQs</a></li>
-      <li><a href="/about" class="nav-link px-2 link-dark">About</a></li>
-    </ul>
+      <div class="md:hidden">
+          <button id="menu-toggle" aria-expanded="false" aria-label="Toggle mobile menu" class="focus:outline-none">
+              <!-- Hamburger Icon -->
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+              </svg>
+          </button>
+      </div>
 
-    <div class="col-md-3 text-end">
-      <a href="/auth/google"  type="button" class="btn btn-outline-primary me-2">Sign Up</a>
-      <a href="/auth/google" type="button" class="btn btn-primary">Sign In</a>
-    </div>
+      <nav class="hidden md:flex items-center space-x-4">
+          <a href="/" class="text-secondary hover:text-gray-700">Home</a>
+          <a href="/about" class="text-dark hover:text-gray-700">About</a>
+          <div class="flex space-x-2">
+              <a href="/auth/google" class="btn btn-outline-primary border border-blue-500 text-blue-500 px-4 py-2 rounded">Sign Up</a>
+              <a href="/auth/google" class="btn btn-primary bg-blue-500 text-white px-4 py-2 rounded">Sign In</a>
+          </div>
+      </nav>
   </header>
+
+  <!-- Mobile Menu -->
+  <div id="mobile-menu" class="fixed inset-0 bg-gray-800 bg-opacity-75 hidden md:hidden z-50">
+      <div class="flex flex-col items-center justify-center h-full space-y-2">
+          <nav class="space-y-4 text-white text-lg w-full text-center">
+              <div class="border-b border-gray-600 pb-2">
+                  <a href="/" class="hover:text-gray-300">Home</a>
+              </div>
+              <div class="border-b border-gray-600 pb-2">
+                  <a href="/about" class="hover:text-gray-300">About</a>
+              </div>
+              <div class="border-b border-gray-600 pb-2">
+                  <a href="/auth/google" class="hover:text-gray-300">Sign Up</a>
+              </div>
+              <div class="border-b border-gray-600 pb-2">
+                  <a href="/auth/google" class="hover:text-gray-300">Sign In</a>
+              </div>
+          </nav>
+      </div>
+      <button id="close-menu" class="absolute top-4 right-4 text-white text-2xl" aria-label="Close mobile menu">
+          &times;
+      </button>
+  </div>
 </div>
+
+<script>
+  const menuToggle = document.getElementById('menu-toggle');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const closeMenu = document.getElementById('close-menu');
+
+  menuToggle.addEventListener('click', () => {
+      const isHidden = mobileMenu.classList.toggle('hidden');
+      menuToggle.setAttribute('aria-expanded', !isHidden);
+  });
+
+  closeMenu.addEventListener('click', () => {
+      mobileMenu.classList.add('hidden');
+      menuToggle.setAttribute('aria-expanded', 'false');
+  });
+</script>
