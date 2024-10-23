@@ -5,3 +5,79 @@
 .btn-outline-primary {
     @apply border border-blue-500 text-blue-500 hover:bg-blue-500 hover:text-white;
 }
+
+.note-container {
+    background-color: white;
+    border: 1px solid transparent; /* Optional for visual clarity */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease; /* Smooth transitions */
+}
+
+.note-container:hover {
+    background-color: #f0f4ff; /* Light blue background on hover */
+    border: 1px solid #3b82f6; /* Blue border on hover */
+    transform: scale(1.02); /* Slightly increase the size */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Elevate the note */
+}
+
+/* Modal transitions */
+.modal-dialog {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.nav-item {
+    color: #D1D5DB; /* Light gray color */
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth background transition */
+}
+
+/* Hover effect */
+.nav-item:hover {
+    background-color: #4B5563; /* Darker gray */
+    color: #F9FAFB; /* Light text color on hover */
+    transform: translateY(-3px); /* Lift effect on hover */
+}
+
+/* Active link effect */
+.nav-item.active {
+    background-color: #1F2937; /* Dark background for active item */
+    color: #F9FAFB; /* Light text color */
+}
+
+/* Focus styles for accessibility */
+.btn:focus,
+.nav-item:focus {
+    outline: 2px solid #3b82f6; /* Outline color matching your theme */
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Apply fade-in animation */
+nav {
+    animation: fadeIn 0.3s ease forwards;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+    .btn {
+        @apply text-base; /* Adjust button text size for mobile */
+    }
+
+    .nav-item {
+        padding: 8px; /* Adjust padding for mobile */
+    }
+
+    .note-container {
+        /* Optionally adjust note container styles for smaller screens */
+    }
+}

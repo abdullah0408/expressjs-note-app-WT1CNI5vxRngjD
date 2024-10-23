@@ -1,23 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><%- locals.title %></title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/stylesheets/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/stylesheets/main.css" />
+    <style>
+      /* Custom styles for dark mode */
+      body {
+        background-color: #121212; /* Dark background */
+        color: #e0e0e0; /* Light text color */
+      }
+      /* Link color for better visibility */
+      a {
+        color: #bb86fc; /* Light purple for links */
+      }
+      a:hover {
+        color: #ffffff; /* White on hover */
+      }
+    </style>
+  </head>
+  <body class="bg-black font-sans text-gray-200 flex flex-col min-h-screen">
+    <% if (locals.isLoggedIn) { %> <%-
+    include('../partials/header_dashboard.ejs') %>
+    <!-- Header for logged-in users -->
+    <% } else { %> <%- include('../partials/header.ejs') %>
+    <!-- Header for guests -->
+    <% } %>
 
-</head>
-<body class="bg-gray-100 font-sans text-gray-800 flex flex-col min-h-screen">
-    <%- include('../partials/header.ejs') %>
-    
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex-grow">
-        <%- body %>
+      <%- body %>
     </main>
-    
-    <%- include('../partials/footer.ejs') %>
-</body>
+
+    <% if (locals.isLoggedIn) { %> <%-
+    include('../partials/footer_dashboard.ejs') %>
+    <!-- Footer for logged-in users -->
+    <% } else { %> <%- include('../partials/footer.ejs') %>
+    <!-- Footer for guests -->
+    <% } %>
+  </body>
 </html>

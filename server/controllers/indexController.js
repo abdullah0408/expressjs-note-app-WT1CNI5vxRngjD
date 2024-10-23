@@ -1,25 +1,22 @@
-import logger from "../../logger.js";
+import logger from "../../logger.js"; // Import logger for logging activities
 
+// Controller function to render the homepage
 const homepage = (req, res) => {
+    // Set local variables for the view
     const locals = {
-        title: "Home"
+        title: "Home | Notes", // Page title
+        isLoggedIn: req.isAuthenticated() // Check if the user is authenticated
     };
+
+    // Render the homepage with the specified layout
     res.render("index", {
-        locals,
-        layout: '../views/layouts/front-page.ejs',
-    }); // Renders the "index" template with locals
+        locals, // Pass local variables to the view
+        layout: '../views/layouts/front-page.ejs', // Use the front-page layout
+    });
 
-    logger.info(`Homepage accessed by user: ${req.user ? req.user._id : 'Guest'}`); // Log access to the homepage
+    // Log homepage access with user details if logged in, else log as "Guest"
+    logger.info(`Homepage accessed by user: ${req.user ? req.user._id : 'Guest'}`);
 };
 
-const about = (req, res) => {
-    const locals = {
-        title: "About Us" // Changed the title to reflect the About page
-    };
-    res.render("about", locals); // Assuming you have an "about.ejs" or similar template
-
-    logger.info(`About page accessed by user: ${req.user ? req.user._id : 'Guest'}`); // Log access to the about page
-};
-
-export { homepage, about };
-
+// Export the homepage function for use in routes
+export { homepage };

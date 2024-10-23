@@ -1,81 +1,140 @@
-<div class="container mx-auto pb-5 mb-5">
-    <!-- Top row with username and New Note button -->
-    <div class="flex flex-col sm:flex-row sm:justify-start items-start mb-4">
-        <!-- Left side: Greeting -->
-        <div class="mb-2 sm:mb-0">
-            <h1 class="text-3xl sm:text-4xl font-semibold">Hey, <%= userName %></h1>
-        </div>
-        <!-- Right side: New Note button -->
-        <div class="ml-0 sm:ml-4">
-            <a href="/dashboard/add" class="px-4 py-2 bg-blue-500 text-white rounded shadow hover:bg-blue-600 transition duration-200 text-sm sm:text-base">+ New Note</a>
-        </div>
-    </div>
-
-    <!-- Notes display -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-        <% if (notes.length > 0) { %>
-            <% for (let i = 0; i < notes.length; i++) { %>
-                <div class="bg-white border border-blue-500 rounded-lg shadow-md p-4 h-52">
-                    <a href="/dashboard/item/<%= notes[i]._id %>" class="no-underline h-full flex flex-col justify-between">
-                        <h5 class="text-lg font-bold mb-2 truncate"><%= notes[i].title %></h5>
-                        <p class="text-gray-700 flex-1 overflow-hidden"><%= notes[i].body %></p>
-                    </a>
-                </div>
-            <% } %>
-        <% } else { %>
-            <div class="flex flex-col items-center">
-                <img src="/images/human-3.svg" alt="" class="mb-4 w-32 h-32">
-                <h2 class="text-xl">Okay...</h2>
-                <h4 class="text-lg text-center">Let's start with your first note <br><br>
-                    <a href="/dashboard/add" class="text-blue-500 hover:underline">Create one!</a>
-                </h4>
-            </div>
-        <% } %>        
-    </div>
-
-    <!-- Pagination -->
-    <% if(notes.length > 0) { %>
-    <nav aria-label="Page navigation" class="mt-6">
-        <ul class="flex justify-center items-center space-x-2">
-            <% if(pages == 1) { %>
-                <li class="page-item"><a class="text-gray-400 cursor-not-allowed">Previous</a></li>
-            <% } else { %>
-                <li class="page-item">
-                    <a class="text-blue-500 hover:underline" href="/dashboard?page=1">First</a>
-                </li>
-            <% } %>
-
-            <% let i = (Number(current) > 5 ? Number(current) - 4 : 1) %>
-            <% if(i !== 1) { %>
-                <li class="page-item"><a class="text-gray-500">...</a></li>
-            <% } %>
-
-            <% for(; i <= Number(current) + 4 && i <= pages; i++) { %>
-                <li class="page-item">
-                    <% if(i == current) { %>
-                        <a class="bg-blue-500 text-white rounded w-10 h-10 flex items-center justify-center">
-                            <%= i %>
-                        </a>
-                    <% } else { %>
-                        <a class="text-blue-500 hover:underline w-10 h-10 flex items-center justify-center" href="/dashboard?page=<%= i %>">
-                            <%= i %>
-                        </a>
-                    <% } %>
-                </li>
-
-                <% if(i == Number(current) + 4 && i < pages) { %>
-                    <li class="page-item"><a class="text-gray-500">...</a></li>
-                <% } %>
-            <% } %>
-
-            <% if(current == pages) { %>
-                <li class="disabled"><a class="text-gray-400 cursor-not-allowed">Last</a></li>
-            <% } else { %>
-                <li class="page-item">
-                    <a class="text-blue-500 hover:underline" href="/dashboard?page=<%= pages %>">Next</a>
-                </li>
-            <% } %>
-        </ul>
+<div class="container mx-auto pb-5 mb-5 bg-black text-white">
+  <div class="flex justify-between items-center">
+    <nav aria-label="breadcrumb" class="text-sm">
+      <ol class="flex space-x-2">
+        <li>
+          <a href="/" class="text-gray-400 hover:underline">Home</a>
+        </li>
+        <li>
+          <span class="text-gray-500">/</span>
+        </li>
+        <li>
+          <span class="text-gray-300 font-semibold">Dashboard</span>
+        </li>
+      </ol>
     </nav>
+    <div class="ml-0 md:ml-4 mt-2 md:mt-0">
+      <a
+        href="/dashboard/add"
+        class="px-4 py-2 bg-gray-600 text-white rounded shadow hover:bg-gray-700 transition duration-200 text-sm sm:text-base"
+        >+ New Note</a
+      >
+    </div>
+  </div>
+  <!-- Top row with username and New Note button -->
+  <div class="flex flex-col md:flex-row md:justify-between items-start mb-4">
+    <div class="mb-2 md:mb-0">
+      <h1 class="text-3xl sm:text-4xl font-semibold">Hey, <%= userName %></h1>
+    </div>
+  </div>
+
+  <!-- Notes display -->
+  <div
+    class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4"
+  >
+    <% if (notes.length > 0) { %> <% for (let i = 0; i < notes.length; i++) { %>
+    <div
+      class="bg-gray-800 border border-gray-600 rounded-lg shadow-md p-4 h-52 transition duration-300 transform hover:bg-gray-700 hover:shadow-lg hover:scale-105"
+    >
+      <a
+        href="/dashboard/item/<%= notes[i]._id %>"
+        class="no-underline h-full flex flex-col justify-between text-gray-200"
+      >
+        <h5 class="text-lg font-bold mb-2 truncate"><%= notes[i].title %></h5>
+        <p class="flex-1 overflow-hidden"><%= notes[i].body %></p>
+      </a>
+    </div>
+    <% } %> <% } else { %>
+    <div class="text-center">
+      <h2 class="text-3xl font-bold mb-2 text-white">Okay...</h2>
+      <h4 class="text-lg mb-4 text-white">
+        Let's start with your first note <br /><br />
+        <a
+          href="/dashboard/add"
+          class="text-blue-400 hover:underline hover:text-blue-300 transition duration-200"
+        >
+          Create one!
+        </a>
+      </h4>
+    </div>
+
     <% } %>
+  </div>
+
+  <!-- Pagination -->
+  <% if (notes.length > 0) { %>
+  <nav aria-label="Page navigation" class="mt-6">
+    <ul class="flex justify-center items-center space-x-2">
+      <% if (current > 1) { %>
+      <li class="page-item">
+        <a class="text-gray-400 hover:underline" href="/dashboard?page=1"
+          >First</a
+        >
+      </li>
+      <% } else { %>
+      <li class="page-item">
+        <a class="text-gray-500 cursor-not-allowed">First</a>
+      </li>
+      <% } %> <% if (current > 1) { %>
+      <li class="page-item">
+        <a
+          class="text-gray-400 hover:underline"
+          href="/dashboard?page=<%= current - 1 %>"
+          >Previous</a
+        >
+      </li>
+      <% } else { %>
+      <li class="page-item">
+        <a class="text-gray-500 cursor-not-allowed">Previous</a>
+      </li>
+      <% } %> <% let start = Math.max(1, current - 4); %> <% let end =
+      Math.min(pages, current + 4); %> <% if (start > 1) { %>
+      <li class="page-item"><a class="text-gray-500">...</a></li>
+      <% } %> <% for (let i = start; i <= end; i++) { %>
+      <li class="page-item">
+        <% if (i == current) { %>
+        <a
+          class="bg-gray-600 text-white rounded w-10 h-10 flex items-center justify-center"
+        >
+          <%= i %>
+        </a>
+        <% } else { %>
+        <a
+          class="text-gray-400 hover:underline w-10 h-10 flex items-center justify-center"
+          href="/dashboard?page=<%= i %>"
+        >
+          <%= i %>
+        </a>
+        <% } %>
+      </li>
+      <% } %> <% if (end < pages) { %>
+      <li class="page-item"><a class="text-gray-500">...</a></li>
+      <% } %> <% if (current < pages) { %>
+      <li class="page-item">
+        <a
+          class="text-gray-400 hover:underline"
+          href="/dashboard?page=<%= pages %>"
+          >Next</a
+        >
+      </li>
+      <% } else { %>
+      <li class="page-item">
+        <a class="text-gray-500 cursor-not-allowed">Next</a>
+      </li>
+      <% } %> <% if (current < pages) { %>
+      <li class="page-item">
+        <a
+          class="text-gray-400 hover:underline"
+          href="/dashboard?page=<%= pages %>"
+          >Last</a
+        >
+      </li>
+      <% } else { %>
+      <li class="page-item">
+        <a class="text-gray-500 cursor-not-allowed">Last</a>
+      </li>
+      <% } %>
+    </ul>
+  </nav>
+  <% } %>
 </div>

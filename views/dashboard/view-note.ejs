@@ -1,17 +1,15 @@
-<div class="container mx-auto pb-5 mb-5">
+<div class="container mx-auto pb-5 mb-5 bg-black text-white">
   <div class="flex justify-between items-center">
     <nav aria-label="breadcrumb" class="text-sm">
       <ol class="flex space-x-2">
         <li>
-          <a href="/" class="text-blue-500 hover:underline"
-            >Home</a
-          >
+          <a href="/" class="text-gray-400 hover:underline">Home</a>
         </li>
         <li>
           <span class="text-gray-500">/</span>
         </li>
         <li>
-          <a href="/dashboard" class="text-blue-500 hover:underline"
+          <a href="/dashboard" class="text-gray-400 hover:underline"
             >Dashboard</a
           >
         </li>
@@ -19,21 +17,24 @@
           <span class="text-gray-500">/</span>
         </li>
         <li>
-          <span class="text-gray-600 font-semibold"><%= note.title %></span>
+          <span class="text-gray-300 font-semibold"><%= note.title %></span>
         </li>
       </ol>
     </nav>
     <button
       type="button"
-      class="bg-red-500 text-white rounded-md px-4 py-2 hover:bg-red-600 transition duration-300"
+      class="px-4 py-2 bg-red-600 text-white rounded shadow hover:bg-red-700 transition duration-200 text-sm sm:text-base"
       id="deleteButton"
     >
       Delete
     </button>
   </div>
+
   <div class="flex justify-between items-center mb-4">
-    <h1 class="text-4xl font-semibold">View Note</h1> <!-- Title size -->
+    <h1 class="text-4xl font-semibold">View Note</h1>
+    <!-- Title size -->
   </div>
+
   <!-- Form to Update Note -->
   <form
     action="/dashboard/item/<%= noteID %>?_method=PUT"
@@ -47,7 +48,7 @@
         name="title"
         value="<%= note.title %>"
         placeholder="Title"
-        class="w-full p-4 text-2xl border border-gray-300 rounded focus:outline-none focus:ring focus:ring-blue-500"
+        class="w-full p-4 text-2xl border border-gray-600 bg-gray-800 text-white rounded focus:outline-none focus:ring focus:ring-gray-500"
         required
       />
     </div>
@@ -56,7 +57,7 @@
         id="body"
         name="body"
         placeholder="Body"
-        class="w-full px-4 py-3 text-base border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 resize-y"
+        class="w-full px-4 py-3 text-base border border-gray-600 bg-gray-800 text-white rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500 resize-y"
         rows="10"
         required
       >
@@ -66,7 +67,7 @@
     <div>
       <button
         type="submit"
-        class="bg-blue-500 text-white rounded-md px-4 py-2 hover:bg-blue-600 transition duration-300"
+        class="bg-gray-600 text-white rounded-md px-4 py-2 hover:bg-gray-700 transition duration-300"
       >
         Update
       </button>
@@ -83,31 +84,32 @@
 >
   <div class="overlay fixed inset-0 bg-black opacity-50"></div>
   <div
-    class="modal-dialog bg-white rounded-lg shadow-lg max-w-md w-full relative z-10 transform transition-transform scale-95 opacity-0"
+    class="modal-dialog bg-gray-800 rounded-lg shadow-lg max-w-md w-full relative z-10 transform transition-transform scale-95 opacity-0 mx-4 sm:mx-auto"
     id="modalContent"
   >
     <div class="modal-content p-6">
       <button
         type="button"
-        class="absolute top-4 right-4 text-gray-500 hover:text-gray-700"
+        class="absolute top-4 right-4 text-gray-400 hover:text-gray-200"
         onclick="closeModal()"
       >
         <span aria-hidden="true">&times;</span>
       </button>
-      <div class="modal-header border-b mb-4">
+      <div class="modal-header mb-4">
         <h5 class="modal-title text-lg font-semibold" id="modalTitle">
           Confirm Delete
         </h5>
       </div>
       <div class="modal-body">
-        <p class="text-gray-700">
+        <p class="text-gray-300">
           Are you sure you want to delete the note titled "<%= note.title %>"?
         </p>
       </div>
-      <div class="modal-footer border-t p-4 flex justify-end space-x-2">
+
+      <div class="modal-footer p-4 flex justify-end space-x-2">
         <button
           type="button"
-          class="bg-gray-300 text-gray-700 rounded-md px-4 py-2 hover:bg-gray-400 transition duration-300"
+          class="bg-gray-700 text-gray-200 rounded-md px-4 py-2 hover:bg-gray-600 transition duration-300"
           onclick="closeModal()"
         >
           Close
@@ -120,7 +122,7 @@
         >
           <button
             type="submit"
-            class="bg-red-500 text-white rounded-md px-4 py-2 hover:bg-red-600 transition duration-300"
+            class="bg-red-600 text-white rounded-md px-4 py-2 hover:bg-red-700 transition duration-300"
           >
             Delete
           </button>
@@ -171,5 +173,12 @@
   /* Add transitions for modal appearance */
   .modal-dialog {
     transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+
+  /* Ensure modal has margin on small screens */
+  @media (max-width: 640px) {
+    .modal-dialog {
+      margin: 1rem; /* Margin on small screens */
+    }
   }
 </style>
