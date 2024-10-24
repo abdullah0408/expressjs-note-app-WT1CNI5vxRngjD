@@ -21,7 +21,7 @@ The Note-Taking Web App is a web application that allows users to create, view, 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/abdullah0408/expressjs-note-app-WT1CNI5vxRngjD.git
-   cd expressjs-note-app-WT1CNI5vxRngjD.git
+   cd expressjs-note-app-WT1CNI5vxRngjD
    ```
 
 2. **Install dependencies**:
